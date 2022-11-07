@@ -6,8 +6,8 @@ import Experience from '../components/genericComponents/Experience/Experience';
 
 
 const components = {
-  person: Person,
-  experience: Experience
+  Person: Person,
+  Experience: Experience
 };
 
 storyblokInit({
